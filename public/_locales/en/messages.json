@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Smart Tab Manager",
+    "description": "The title of the extension"
+  },
+  "appDescription": {
+    "message": "Organize tabs into workspaces, control open tabs, and auto-suspend inactive tabs to save memory.",
+    "description": "The description of the extension"
+  }
+}
